@@ -10,7 +10,7 @@ def connect():
         host='localhost',
         port=3306,
         user='root',
-        password='14789Cherry',
+        password='XXX',
         database='testdb',
         connect_timeout = 10000,)
     print(f'I am connecting, testing at {datetime.datetime.now()}')
